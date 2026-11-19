@@ -1,0 +1,8 @@
+print('안녕하세요')
+print('감사해요')
+print('잘있어요')
+print('다시 만나요')
+print('아침 해 가 뜨면')
+print('잘부탁부탁')
+print('요로시꾸')
+print('안녕하세요')
