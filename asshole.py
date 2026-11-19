@@ -1,1 +1,1 @@
-print('hello world')
+print('이웅서 1,000조 부자 예정')
